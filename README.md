@@ -21,8 +21,7 @@ Agradecidos de ser ganadores del **1er Puesto** en la competencia **PROTOTIPOS I
 
 **Contacto**
 * Correo: stacproyect@gmail.com
-* Youtube: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YbUuJB8ZXzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* Youtube: <iframe width="560" height="315" src="https://www.youtube.com/embed/YbUuJB8ZXzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Equipo productivo:**
 
